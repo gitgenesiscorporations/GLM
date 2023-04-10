@@ -1,0 +1,603 @@
+Group Projetos
+   Version=7.0
+   VSSDB=
+   HasProperties=1
+   Properties
+      BeforeApply=
+      AfterApply=
+      Icon=
+      ID=
+      Version=
+      PalmName=
+      OutPut=
+   End
+   ProjectsCount=3
+   Project Perfil de Acesso
+      FoldersCount=11
+      Folder Ponto de Entrada
+         VSSPath=Fontes
+         FilesCount=19
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Pontos de Entrada\Esp1Nome.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Pontos de Entrada\SigaCOM.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Pontos de Entrada\SigaATF.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Pontos de Entrada\SigaEST.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Pontos de Entrada\SigaFAT.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Pontos de Entrada\SigaFIN.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Pontos de Entrada\SigaGPE.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Pontos de Entrada\SigaFIS.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Pontos de Entrada\SigaPCP.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Pontos de Entrada\SigaPON.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Pontos de Entrada\SigaCTB.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Pontos de Entrada\SigaGCT.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Pontos de Entrada\SigaESP.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Pontos de Entrada\SigaESP1.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Pontos de Entrada\SigaESP2.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Pontos de Entrada\SigaCFG.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Pontos de Entrada\CallChgXNU.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Pontos de Entrada\EspNome.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Pontos de Entrada\Esp2Nome.prw
+             Type=T
+         End
+      End
+      Folder Customizações
+         VSSPath=Definições
+         FilesCount=34
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gCADZZC.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gCADZZD.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspM001.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspI001.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspV001.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspP001.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspM002.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspM003.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspA001.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspA002.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gCADZZG.PRW
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspM004.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspI002.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspM005.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspM006.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspM007.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspM008.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspM009.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspM010.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspM011.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspI006.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspP002.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspI007.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspM014.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspM013.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspI012.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspI011.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspM015.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspI013.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspI003.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspI004.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gCADZZI.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gCADZZJ.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Específicos\gEspI008.prw
+             Type=T
+         End
+      End
+      Folder Relatórios
+         VSSPath=Nova Pasta3
+         FilesCount=9
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Relatórios\gEspR001.PRW
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Relatórios\gEspR002.PRW
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Relatórios\gEspR004.PRW
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Relatórios\gEspR003.PRW
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Relatórios\gLeXML1.PRW
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Relatórios\gLeXML2.PRW
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Relatórios\gLeXML3.PRW
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Relatórios\gEspR005.PRW
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Relatórios\gLeXML.PRW
+             Type=T
+         End
+      End
+      Folder Gatilhos
+         VSSPath=Nova Pasta4
+         FilesCount=12
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Gatilhos\gGEsp001.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Gatilhos\gGEsp002.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Gatilhos\gGEsp003.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Gatilhos\gGEsp005.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Gatilhos\gGEsp004.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Gatilhos\gGEsp006.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Gatilhos\gGEsp007.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Gatilhos\gGEsp008.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Gatilhos\gGEsp009.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Gatilhos\gGEsp010.PRW
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Gatilhos\gGEsp011.PRW
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Gatilhos\gGEsp013.prw
+             Type=T
+         End
+      End
+      Folder Validações
+         VSSPath=Nova Pasta5
+         FilesCount=65
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp001.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp002.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp003.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp004.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp005.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp006.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp007.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp008.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp009.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp015.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp010.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp011.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp012.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp013.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp014.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp016.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp017.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp018.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp019.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp020.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp021.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp022.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp023.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp029.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp031.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp032.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp033.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp034.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp035.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp036.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp037.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp040.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp041.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp042.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp043.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp044.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp038.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp039.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp045.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp046.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp047.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp048.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp049.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp051.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp052.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp053.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp054.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp055.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp059.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp060.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp061.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp062.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp063.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp024.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp025.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp026.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp027.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp028.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp030.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp050.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp056.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp057.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp058.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp064.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Validações\gVEsp065.prw
+             Type=T
+         End
+      End
+      Folder Consultas
+         VSSPath=Nova Pasta6
+         FilesCount=3
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Consultas\gCEsp001.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Consultas\gCEsp002.PRW
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Consultas\gCEsp003.PRW
+             Type=T
+         End
+      End
+      Folder WorkFlows
+         VSSPath=Nova Pasta7
+         FilesCount=6
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\WorkFlows\gEspEWF.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\WorkFlows\gEWF001.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\WorkFlows\gEWF002.PRW
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\WorkFlows\gEWF003.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\WorkFlows\gEWF004.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\WorkFlows\gEWF005.prw
+             Type=T
+         End
+      End
+      Folder Tratamento de Usuário
+         VSSPath=Nova Pasta8
+         FilesCount=4
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Tratamento de Usuário\gEspT001.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Tratamento de Usuário\gEspT002.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Tratamento de Usuário\gEspT003.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Tratamento de Usuário\gEspT004.prw
+             Type=T
+         End
+      End
+      Folder Diversos
+         VSSPath=Nova Pasta9
+         FilesCount=1
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Diversos\TesteDirectory.prw
+             Type=T
+         End
+      End
+      Folder Interfaces X Sistemas Externos
+         VSSPath=Nova Pasta10
+         FilesCount=0
+      End
+      Folder Configurador
+         VSSPath=Nova Pasta11
+         FilesCount=1
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Perfil de Acesso\Configurador\UPDPerfil.prw
+             Type=T
+         End
+      End
+   End
+   Project Ordem de Serviço
+      FoldersCount=5
+      Folder Gatilhos
+         VSSPath=Nova Pasta1
+         FilesCount=2
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Ordem de Servico\Gatilhos\gGPMS001.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Ordem de Servico\Gatilhos\gGPMS002.prw
+             Type=T
+         End
+      End
+      Folder Validações
+         VSSPath=Nova Pasta2
+         FilesCount=2
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Ordem de Servico\Validações\gVPms001.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Ordem de Servico\Validações\gVPms002.prw
+             Type=T
+         End
+      End
+      Folder Ponto de Entrada
+         VSSPath=Nova Pasta3
+         FilesCount=3
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Ordem de Servico\Ponto de Entrada\PMSA321DOC.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Ordem de Servico\Ponto de Entrada\PMSGRVAFU.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Ordem de Servico\Ponto de Entrada\PMDELAFU.prw
+             Type=T
+         End
+      End
+      Folder Relatórios
+         VSSPath=Nova Pasta5
+         FilesCount=3
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Ordem de Servico\Relatórios\gPMSR001.PRW
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Ordem de Servico\Relatórios\gPMSR002.PRW
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Ordem de Servico\Relatórios\gPMSR003.PRW
+             Type=T
+         End
+      End
+      Folder Específicos
+         VSSPath=Nova Pasta5
+         FilesCount=2
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Ordem de Servico\Específicos\gPMSM001.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Ordem de Servico\Específicos\gPMSM002.prw
+             Type=T
+         End
+      End
+   End
+   Project Call Center
+      FoldersCount=2
+      Folder Específicos
+         VSSPath=Nova Pasta1
+         FilesCount=1
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Call Center\Específicos\gTMKM000.prw
+             Type=T
+         End
+      End
+      Folder Ponto de Entrada
+         VSSPath=Nova Pasta2
+         FilesCount=2
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Call Center\Ponto de Entrada\TMK260OK.prw
+             Type=T
+         End
+         File \GLM\GLMProtheus\Protheus11\TESTE\my projects\GLMProjetos\Call Center\Ponto de Entrada\TMK260.prw
+             Type=T
+         End
+      End
+   End
+End
